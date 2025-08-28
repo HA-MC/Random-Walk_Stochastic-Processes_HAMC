@@ -45,7 +45,7 @@ This 1D Random Walk generates a sequence of values where each element randomly i
 
 When graphed, the trajectory forms a wavy pattern, similar to the signals on an electrocardiogram, visually demonstrating the unpredictable nature of the stochastic process.
 
-![Random Walk 1D](https://upload.wikimedia.org/wikipedia/commons/6/6a/Random_walk_5000.svg)
+![Random Walk 1D](notebooks/plots/00_RandomWalk1D.png)
 
 ### 🔹 Caminata Aleatoria en 2D
 
