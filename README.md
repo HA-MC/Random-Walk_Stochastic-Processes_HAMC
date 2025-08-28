@@ -48,7 +48,7 @@ When graphed, the trajectory forms a wavy pattern, similar to the signals on an 
 
 ![Random Walk 1D](notebooks/plots/00_rand_walk_1D.png)
 
-### 🔹 Random Wlak 2D
+### 🔹 Random Walk 2D
 
 This model simulates a random walk on a 2D plane, where at each step the position can change in any of four possible directions. The resulting trajectory is erratic and random, reminiscent of the Brownian motion particles in a fluid. This type of simulation allows the study of discrete stochastic processes and the observation of emergent patterns of random systems.
 
@@ -56,47 +56,26 @@ This model simulates a random walk on a 2D plane, where at each step the positio
 
 ---
 
-## 🚀 Instalación y uso  
+## 🚀 Installation and use  
 
-1. Clona el repositorio:  
-```bash
-git clone https://github.com/tuusuario/random-walk.git
-cd random-walk
+To clone the repository, install dependencies, and run the notebooks, follow these simple steps:
 
-Instala las dependencias:
-
-pip install -r requirements.txt
-
-Abre los notebooks en Jupyter:
-
-jupyter notebook
-```
-
----
-
-## 🚀 Inicio rápido
-
-Para clonar el repositorio, instalar las dependencias y ejecutar los notebooks, sigue estos sencillos pasos:
-
-1.  **Clona el repositorio**:
+1.  **Clone the reposity**:
     ```bash
-    git clone [https://github.com/tu-usuario/random-walk.git](https://github.com/tu-usuario/random-walk.git)
-    cd random-walk
+    git clone [https://github.com/HA-MC/Random-Walk_Stochastic-Processes_HAMC](https://github.com/HA-MC/Random-Walk_Stochastic-Processes_HAMC)
+    cd Random-Walk_Stochastic-Processes_HAMC
     ```
 
-2.  **Instala las dependencias**:
+2.  **Install the dependencies**:
     ```bash
     pip install -r requirements.txt
     ```
 
-3.  **Abre los notebooks con Jupyter**:
+3.  **Open notebooks with Jupyter**:
     ```bash
     jupyter notebook
     ```
-    Una vez en Jupyter, navega a la carpeta `notebooks/` y explora los ejemplos.
-
 ---
-
 
 
 ## Results and Conclusions
