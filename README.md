@@ -62,7 +62,7 @@ To clone the repository, install dependencies, and run the notebooks, follow the
 
 1.  **Clone the reposity**:
     ```bash
-    git clone [https://github.com/HA-MC/Random-Walk_Stochastic-Processes_HAMC](https://github.com/HA-MC/Random-Walk_Stochastic-Processes_HAMC)
+    git clone https://github.com/HA-MC/Random-Walk_Stochastic-Processes_HAMC.git
     cd Random-Walk_Stochastic-Processes_HAMC
     ```
 
