@@ -105,3 +105,9 @@ En dos dimensiones, el movimiento es similar a una partícula de polen en el agu
 ![Random Walk 2D](https://upload.wikimedia.org/wikipedia/commons/2/29/RandomWalk_1000.gif)
 
 ---
+
+## Results and Conclusions
+
+- 1D random walk simulations were performed with up to N user-defined steps.
+- The results show that the final position can vary widely due to randomness.
+- These simulations allow for the introduction of concepts of stochastic processes and probability theory.
