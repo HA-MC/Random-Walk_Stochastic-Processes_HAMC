@@ -8,19 +8,19 @@ The goal is to provide theoretical and practical examples to understand, simulat
 ## 📖 Contenido del repositorio  
 
 random-walk/
-│── README.md # Este archivo
-│── notebooks/ # Notebooks con simulaciones
-│ ├── random_walk_basico.ipynb
-│ ├── random_walk_2d.ipynb
-│ └── random_walk_multidimensional.ipynb
-│── src/ # Código fuente en Python
-│ ├── random_walk.py
-│ └── visualizacion.py
-│── docs/ # Explicaciones teóricas
-│ ├── introduccion.md
-│ ├── aplicaciones.md
-│ └── referencias.md
-│── requirements.txt # Dependencias del proyecto
+├── README.md               # 📄 Este archivo de bienvenida.
+├── notebooks/              # 📚 Notebooks de Jupyter para simulaciones interactivas.
+│   ├── random_walk_1d.ipynb
+│   ├── random_walk_2d.ipynb
+│   └── random_walk_multidimensional.ipynb
+├── src/                    # 🐍 Código fuente en Python, con funciones reutilizables.
+│   ├── random_walk.py
+│   └── visualizacion.py
+├── docs/                   # 📝 Documentación teórica y explicaciones detalladas.
+│   ├── introduccion.md
+│   ├── aplicaciones.md
+│   └── referencias.md
+└── requirements.txt        # 📦 Dependencias necesarias para ejecutar el proyecto.
 
 
 ---
