@@ -5,39 +5,36 @@ The goal is to provide theoretical and practical examples to understand, simulat
 
 ---
 
-## 📖 Contenido del repositorio  
+## 📖 Repository content  
 
 ```bash
 random-walk/
-├── README.md               # 📄 Este archivo de bienvenida.
-├── notebooks/              # 📚 Notebooks de Jupyter para simulaciones interactivas.
+├── README.md               # 📄 Welcome file.
+├── notebooks/              # 📚 Jupyter notebooks for interactive simulations.
 │   ├── random_walk_1d.ipynb
 │   ├── random_walk_2d.ipynb
 │   └── random_walk_multidimensional.ipynb
-├── src/                    # 🐍 Código fuente en Python, con funciones reutilizables.
+├── src/                    # 🐍 Python source code, with reusable functions.
 │   ├── random_walk.py
 │   └── visualizacion.py
-├── docs/                   # 📝 Documentación teórica y explicaciones detalladas.
+├── docs/                   # 📝 Theoretical documentation and detailed explanations.
 │   ├── introduccion.md
 │   ├── aplicaciones.md
 │   └── referencias.md
-└── requirements.txt        # 📦 Dependencias necesarias para ejecutar el proyecto.
+└── requirements.txt        # 📦 Dependencies needed to run the project.
 ```
 
 ---
 
-## 🧮 ¿Qué es un Random Walk?  
+## 🧮 ¿What is a random walk?  
 
-Un **Random Walk** es un proceso estocástico en el cual un valor evoluciona en pasos sucesivos aleatorios.  
-Ejemplo clásico:  
-- Imagina a una persona que en cada paso decide ir **izquierda** o **derecha** con igual probabilidad.  
-- Después de muchos pasos, su posición final depende de la secuencia de elecciones.  
+A **Random Walk** is a stochastic process in which a value evolves in succesive random steps.  
 
-📊 Se utiliza en:  
-- **Finanzas** (modelar precios de activos).  
-- **Física** (movimiento Browniano).  
-- **Biología** (dispersión de partículas).  
-- **IA / Machine Learning** (simulación de entornos aleatorios).  
+📊 It is used in :  
+- **Finance** (model asset prices).  
+- **Physics** (Brownian motion).  
+- **Biology** (particle scattering).  
+- **IA / Machine Learning** (simulating random environments).  
 
 ---
 
