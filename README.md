@@ -40,7 +40,7 @@ A **Random Walk** is a stochastic process in which a value evolves in succesive 
 
 ## ⚡ Ejemplos visuales  
 
-### 🔹 Caminata aleatoria 1D  
+### 🔹 Random Walk 1D  
 ![Random Walk 1D](notebooks/plots/00_RandomWalk1D.png)  
 
 ---
