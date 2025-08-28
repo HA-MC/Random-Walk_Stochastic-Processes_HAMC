@@ -46,13 +46,13 @@ This 1D Random Walk generates a sequence of values where each element randomly i
 
 When graphed, the trajectory forms a wavy pattern, similar to the signals on an electrocardiogram, visually demonstrating the unpredictable nature of the stochastic process.
 
-![Random Walk 1D](notebooks/plots/00_RandomWalk1D.png)
+![Random Walk 1D](notebooks/plots/00_rando_walk_1D.png)
 
-### 🔹 Caminata Aleatoria en 2D
+### 🔹 Random Wlak 2D
 
-En dos dimensiones, el movimiento es similar a una partícula de polen en el agua (movimiento browniano). En cada paso, la partícula puede moverse en cualquier dirección, creando una trayectoria errática y fascinante.
+This model simulates a random walk on a 2D plane, where at each step the position can change in any of four possible directions. The resulting trajectory is erratic and random, reminiscent of the Brownian motion particles in a fluid. This type of simulation allows the study of discrete stochastic processes and the observation of emergent patterns of random systems.
 
-![Random Walk 2D](https://upload.wikimedia.org/wikipedia/commons/2/29/RandomWalk_1000.gif)
+![Random Walk 2D](notebooks/plots/01_rando_walk_grid_2D.png)
 
 ---
 
