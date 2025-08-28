@@ -54,6 +54,12 @@ This model simulates a random walk on a 2D plane, where at each step the positio
 
 ![Random Walk 2D](notebooks/plots/01_rand_walk_grid_2D.png)
 
+### 🔹 Random Walk 2D with Angles
+
+This model simulates a random walk on a 2D plane, where at each step the position can change in any of four possible directions. The resulting trajectory is erratic and random, reminiscent of the Brownian motion particles in a fluid. This type of simulation allows the study of discrete stochastic processes and the observation of emergent patterns of random systems.
+
+![Random Walk 2D](notebooks/plots/02_rand_walk_2D_angle.png)
+
 ---
 
 ## 🚀 Installation and use  
