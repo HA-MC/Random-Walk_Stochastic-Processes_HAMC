@@ -1,15 +1,19 @@
-Random-Walk_Stochastic-Processes_HAMC/
+# Random-Walk_Stochastic-Processes_HAMC
+
+```
 ├── README.md
 ├── docs
 │   ├── conclusions.md
 │   └── images
 ├── notebooks
-│   ├── 00_RandomWalk1D.ipynb
-│   ├── 01_Random-Walk-2D.ipynb
-│   ├── plots
-│   │   └── 00_RandomWalk1D.png
-│   └── rand_walk_grid100000.pdf
+│   ├── 00_rand_walk_1D.ipynb
+│   ├── 01_rand_walk_2D.ipynb
+│   ├── 02_rand_walk_2D_angular.ipynb
+│   └── plots
+│       ├── 00_rand_walk_1D.png
+│       └── 01_rand_walk_grid_2D.png
 ├── requirements.txt
 ├── src
 ├── tree.py
 └── tree_readme.md
+```
