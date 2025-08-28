@@ -1,7 +1,7 @@
-# 🌀 Random Walk: Caminatas Aleatorias en Procesos Estocásticos  
+# 🌀 Random Walk in Stochastic Processes  
 
-Este repositorio contiene ejemplos teóricos y prácticos sobre **procesos estocásticos**, en particular el **Random Walk** (*caminata aleatoria*).  
-El objetivo es entender, simular y visualizar cómo funcionan estos modelos probabilísticos y explorar sus aplicaciones en distintos campos.  
+This repository focuses on **Random Walk** a specific type of stochastic process.
+The goal is to provide theoretical and practical examples to understand, simulate, and visualize this probabilistic model and explore its various applications. 
 
 ---
 
