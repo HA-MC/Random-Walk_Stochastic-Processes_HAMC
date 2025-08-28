@@ -37,11 +37,21 @@ A **Random Walk** is a stochastic process in which a value evolves in succesive 
 - **IA / Machine Learning** (simulating random environments).  
 
 ---
+## 📊 Visualizations
 
-## ⚡ Ejemplos visuales  
+### 🔹 Random Walk 1D
 
-### 🔹 Random Walk 1D  
-![Random Walk 1D](notebooks/plots/00_RandomWalk1D.png)  
+This 1D Random Walk generates a sequence of values where each element randomly increases, decreases, or remains the same relative to the prevoius one.
+
+When graphed, the trajectory forms a wavy pattern, similar to the signals on an electrocardiogram, visually demonstrating the unpredictable nature of the stochastic process.
+
+![Random Walk 1D](https://upload.wikimedia.org/wikipedia/commons/6/6a/Random_walk_5000.svg)
+
+### 🔹 Caminata Aleatoria en 2D
+
+En dos dimensiones, el movimiento es similar a una partícula de polen en el agua (movimiento browniano). En cada paso, la partícula puede moverse en cualquier dirección, creando una trayectoria errática y fascinante.
+
+![Random Walk 2D](https://upload.wikimedia.org/wikipedia/commons/2/29/RandomWalk_1000.gif)
 
 ---
 
@@ -86,23 +96,7 @@ Para clonar el repositorio, instalar las dependencias y ejecutar los notebooks, 
 
 ---
 
-## 📊 Visualizaciones
 
-Aquí tienes una muestra de lo que puedes simular y visualizar.
-
-### 🔹 Caminata Aleatoria en 1D
-
-Imagina a un punto que se mueve a la izquierda o a la derecha de forma aleatoria en una línea. Su posición final es el resultado de una serie de decisiones binarias.
-
-![Random Walk 1D](https://upload.wikimedia.org/wikipedia/commons/6/6a/Random_walk_5000.svg)
-
-### 🔹 Caminata Aleatoria en 2D
-
-En dos dimensiones, el movimiento es similar a una partícula de polen en el agua (movimiento browniano). En cada paso, la partícula puede moverse en cualquier dirección, creando una trayectoria errática y fascinante.
-
-![Random Walk 2D](https://upload.wikimedia.org/wikipedia/commons/2/29/RandomWalk_1000.gif)
-
----
 
 ## Results and Conclusions
 
