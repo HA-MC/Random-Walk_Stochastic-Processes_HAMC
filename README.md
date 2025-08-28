@@ -7,6 +7,7 @@ The goal is to provide theoretical and practical examples to understand, simulat
 
 ## 📖 Contenido del repositorio  
 
+'''bash
 random-walk/
 ├── README.md               # 📄 Este archivo de bienvenida.
 ├── notebooks/              # 📚 Notebooks de Jupyter para simulaciones interactivas.
@@ -21,7 +22,7 @@ random-walk/
 │   ├── aplicaciones.md
 │   └── referencias.md
 └── requirements.txt        # 📦 Dependencias necesarias para ejecutar el proyecto.
-
+'''
 
 ---
 
