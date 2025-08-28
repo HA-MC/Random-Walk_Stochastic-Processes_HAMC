@@ -62,6 +62,7 @@ pip install -r requirements.txt
 Abre los notebooks en Jupyter:
 
 jupyter notebook
+```
 
 ---
 
