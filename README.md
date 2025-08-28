@@ -77,7 +77,6 @@ To clone the repository, install dependencies, and run the notebooks, follow the
     ```
 ---
 
-
 ## Results and Conclusions
 
 - 1D random walk simulations were performed with up to N user-defined steps.
