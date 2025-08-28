@@ -8,20 +8,21 @@ The goal is to provide theoretical and practical examples to understand, simulat
 ## 📖 Repository content  
 
 ```bash
-random-walk/
-├── README.md               # 📄 Welcome file.
-├── notebooks/              # 📚 Jupyter notebooks for interactive simulations.
-│   ├── random_walk_1d.ipynb
-│   ├── random_walk_2d.ipynb
-│   └── random_walk_multidimensional.ipynb
-├── src/                    # 🐍 Python source code, with reusable functions.
-│   ├── random_walk.py
-│   └── visualizacion.py
-├── docs/                   # 📝 Theoretical documentation and detailed explanations.
-│   ├── introduccion.md
-│   ├── aplicaciones.md
-│   └── referencias.md
-└── requirements.txt        # 📦 Dependencies needed to run the project.
+Random-Walk_Stochastic-Processes_HAMC/
+├── README.md
+├── docs
+│   ├── conclusions.md
+│   └── images
+├── notebooks
+│   ├── 00_RandomWalk1D.ipynb
+│   ├── 01_Random-Walk-2D.ipynb
+│   ├── plots
+│   │   └── 00_RandomWalk1D.png
+│   └── rand_walk_grid100000.pdf
+├── requirements.txt
+├── src
+├── tree.py
+└── tree_readme.md
 ```
 
 ---
